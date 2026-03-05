@@ -26,6 +26,25 @@
   <img src="https://img.shields.io/badge/Zero_Deps-stdlib_only-EC4899?style=flat-square" alt="Zero Dependencies">
 </p>
 
+<p align="center">
+  <b>📮 WeChat Official Account: cft0808</b>
+  <br>
+  <sub>Architecture breakdowns, role design, postmortems, issue fixes, and token-saving tactics</sub>
+  <br>
+  <a href="docs/wechat.md">👉 Intro & follow entry</a>
+</p>
+
+<details>
+<summary><b>📷 Scan to follow (QR code)</b></summary>
+
+<p align="center">
+  <img src="docs/assets/wechat-qrcode.jpg" width="220" alt="WeChat QR">
+  <br>
+  <sub>To update the QR, replace <code>docs/assets/wechat-qrcode.jpg</code>.</sub>
+</p>
+
+</details>
+
 ---
 
 ## 🎬 Demo

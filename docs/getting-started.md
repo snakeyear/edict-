@@ -180,3 +180,11 @@ openclaw gateway restart
 - [📖 README](../README.md)
 - [🤝 贡献指南](../CONTRIBUTING.md)
 - [💬 OpenClaw 文档](https://docs.openclaw.ai)
+
+---
+
+## 📮 关注公众号（cft0808）
+
+如果你更喜欢“连载式更新”（架构拆解、踩坑复盘、Issue 优先级、Token 省钱术），欢迎扫码关注：
+
+- 入口页：`docs/wechat.md`

@@ -28,6 +28,25 @@
   <img src="https://img.shields.io/badge/Backend-stdlib_only-EC4899?style=flat-square" alt="Zero Backend Dependencies">
 </p>
 
+<p align="center">
+  <b>📮 公众号：cft0808</b>
+  <br>
+  <sub>更新「三省六部」架构拆解、角色设定、踩坑复盘、Issue 修复、Token 省钱术</sub>
+  <br>
+  <a href="docs/wechat.md">👉 点我看公众号介绍 / 关注入口</a>
+</p>
+
+<details>
+<summary><b>📷 扫码关注（二维码）</b></summary>
+
+<p align="center">
+  <img src="docs/assets/wechat-qrcode.jpg" width="220" alt="公众号二维码">
+  <br>
+  <sub>如果你更新了二维码，替换 <code>docs/assets/wechat-qrcode.jpg</code> 即可</sub>
+</p>
+
+</details>
+
 ---
 
 ## 🎬 Demo
